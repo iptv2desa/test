@@ -1,0 +1,8 @@
+#EXTM3U
+
+#EXTINF:-1,Sooka 5025
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=33d64e90ab4a49ad82fa8e330ec8dd77:0e97b14e170db8ab089ec77d4119d1da
+https://l81.dp.sooka.my/5025/linear/index.mpd
