@@ -1,3 +1,5 @@
+#EXTM3U
+
 #EXTINF:-1,Sooka 5025
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
