@@ -10,4 +10,6 @@ https://l13.dp.sooka.my/2505/linear/index.mpd|Authorization=Bearer eyJhbGciOiJIU
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sooka",Astro Arena
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"e135c61feb580aec04e916a9ab5af6f9","kid":"fe86583eede147d784f898ef566f4dfe"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+#EXTVLCOPT:http-referrer=https://sooka.my/
 https://s82.dp.sooka.my/v1/dash/9511bca468e9b524226Ba3d6d4d6dab33623c3cc/sooka-ch2604-Astro_Arena-dash/2604/linear/index.mpd
