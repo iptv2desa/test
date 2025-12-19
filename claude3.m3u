@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sooka",Sooka Channel
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sooka.my/drm/widevine|User-Agent=Mozilla/5.0&Referer=https://sooka.my/&Origin=https://sooka.my&Authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NjYxMTY5MjcsImlzcyI6IlZSIiwiZXhwIjoxNzY2MTgzNDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiZGZjOWE1YzQtMmRlZi00NWUzLTlmM2MtNTM0OTk5MzM3MDk0IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiMjUwNSJ9.5jTE16GZJivUVQFnk0hGsUb5KsHYQLSGewxFni0HrUk|R{SSM}|
+https://l13.dp.sooka.my/2505/linear/index.mpd
