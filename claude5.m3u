@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="sooka2505" tvg-logo="" group-title="Sooka",Sooka Channel
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=baed97d1065247178a77ab304e934eed:66bb4e697fce85b545e3dbbbbb1f87b6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+#EXTVLCOPT:http-referrer=https://sooka.my/
+https://l13.dp.sooka.my/2505/linear/index.mpd|Authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NjYxMTY5MjcsImlzcyI6IlZSIiwiZXhwIjoxNzY2MTgzNDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiZGZjOWE1YzQtMmRlZi00NWUzLTlmM2MtNTM0OTk5MzM3MDk0IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiMjUwNSJ9.5jTE16GZJivUVQFnk0hGsUb5KsHYQLSGewxFni0HrUk
+
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sooka",Astro Arena
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"e135c61feb580aec04e916a9ab5af6f9","kid":"fe86583eede147d784f898ef566f4dfe"}],"type":"temporary"}
+https://s82.dp.sooka.my/v1/dash/9511bca468e9b524226Ba3d6d4d6dab33623c3cc/sooka-ch2604-Astro_Arena-dash/2604/linear/index.mpd
