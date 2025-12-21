@@ -1,0 +1,72 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="PRIMA" tvg-logo="" group-title="Sooka",PRIMA TESTTING SERVER
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6613bc303647468c974c3c839d5201e9:5422811c83996a25f51229219b41c410
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+#EXTVLCOPT:http-referrer=https://sooka.my/
+#EXTVLCOPT:http-origin=https://sooka.my
+https://l05.dp.sooka.my/1000/linear/index.mpd|Authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NjYzMzU4ODYsImlzcyI6IlZSIiwiZXhwIjoxNzY2MzY0Njg2LCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiZGZjOWE1YzQtMmRlZi00NWUzLTlmM2MtNTM0OTk5MzM3MDk0IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9MjE2MCl8fCh0eXBlPT1cImF1ZGlvXCImJmZvdXJDQyE9XCJhYy0zXCIpfHwodHlwZSE9XCJ2aWRlb1wiJiZ0eXBlIT1cImF1ZGlvXCIpIiwicGF0dGVybiI6IjEwMDAifQ.64lxTeTtkNLpCRu_1CWYo5RMGSnwWdfXbSwxSLKVBII
+
+
+#EXTINF:-1 tvg-id="RIA" tvg-logo="" group-title="Sooka",RIA TESTTING SERVER
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c15541e4dde34c48a0d144a4b0ab7194:ce82e3d81126183e5a262e320f6348b3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+#EXTVLCOPT:http-referrer=https://sooka.my/
+#EXTVLCOPT:http-origin=https://sooka.my
+https://l05.dp.sooka.my/1004/linear/index.mpd|Authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NjYzMjY1ODMsImlzcyI6IlZSIiwiZXhwIjoxNzY2MzU2MjAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiZGZjOWE1YzQtMmRlZi00NWUzLTlmM2MtNTM0OTk5MzM3MDk0IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9MjE2MCl8fCh0eXBlPT1cImF1ZGlvXCImJmZvdXJDQyE9XCJhYy0zXCIpfHwodHlwZSE9XCJ2aWRlb1wiJiZ0eXBlIT1cImF1ZGlvXCIpIiwicGF0dGVybiI6IjEwMDQifQ.XUjDiwBuk1-tsOtcBwjRlWKCH4Kat_U-cw7yblIcXUE
+
+
+
+#EXTINF:-1 tvg-id="Creket" tvg-logo="" group-title="Sooka",Creket TESTTING SERVER
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ffd1e696f9ab454c8d10d9c880c360e9:00b22ca27f39679d2add6e405f1804d0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+#EXTVLCOPT:http-referrer=https://sooka.my/
+#EXTVLCOPT:http-origin=https://sooka.my
+https://l02.dp.sooka.my/2504/linear/index.mpd|Authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NjYzNDk2ODAsImlzcyI6IlZSIiwiZXhwIjoxNzY2Mzc4NDgwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiZGZjOWE1YzQtMmRlZi00NWUzLTlmM2MtNTM0OTk5MzM3MDk0IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9MjE2MCl8fCh0eXBlPT1cImF1ZGlvXCImJmZvdXJDQyE9XCJhYy0zXCIpfHwodHlwZSE9XCJ2aWRlb1wiJiZ0eXBlIT1cImF1ZGlvXCIpIiwicGF0dGVybiI6IjI1MDQifQ.9H_cJ6gQxbsgWjuTri5cxB_eyKiXGrTBpgn5WmaJMXM
+
+#EXTINF:-1 tvg-id="BeIN Sport1" tvg-logo="" group-title="Sooka",BeIN Sport1 TESTTING SERVER
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=323148d9bf4d481fbbc8067bc227960c:5f4c296e4c543b2c750ba48c2302cec4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+#EXTVLCOPT:http-referrer=https://sooka.my/
+#EXTVLCOPT:http-origin=https://sooka.my
+https://l01.dp.sooka.my/408/linear/index.mpd|Authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NjYzNDk5ODAsImlzcyI6IlZSIiwiZXhwIjoxNzY2Mzc4NzgwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiZGZjOWE1YzQtMmRlZi00NWUzLTlmM2MtNTM0OTk5MzM3MDk0IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9MjE2MCl8fCh0eXBlPT1cImF1ZGlvXCImJmZvdXJDQyE9XCJhYy0zXCIpfHwodHlwZSE9XCJ2aWRlb1wiJiZ0eXBlIT1cImF1ZGlvXCIpIiwicGF0dGVybiI6IjQwOCJ9.TvATK35Xx0tywRJYBPcFt1AzMJDQfPPfRAjidfGEyBc
+
+
+#EXTINF:-1 tvg-id="Football" tvg-logo="" group-title="Sooka",Football TESTTING SERVER
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=979e72a070ec437ba92c597c287acbad:7f4db6de524b2e51c87f61566ff77039
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+#EXTVLCOPT:http-referrer=https://sooka.my/
+#EXTVLCOPT:http-origin=https://sooka.my
+https://s81.dp.sooka.my/v1/dash/951fbca46ac9b52422f8e3d6d4d6dab33623c3cc/sooka-ch2506-Football-dash/2506/linear/index.mpd|Authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NjYzNTAyNDgsImlzcyI6IlZSIiwiZXhwIjoxNzY2Mzc5MDQ4LCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiZGZjOWE1YzQtMmRlZi00NWUzLTlmM2MtNTM0OTk5MzM3MDk0IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9MjE2MCl8fCh0eXBlPT1cImF1ZGlvXCImJmZvdXJDQyE9XCJhYy0zXCIpfHwodHlwZSE9XCJ2aWRlb1wiJiZ0eXBlIT1cImF1ZGlvXCIpIiwicGF0dGVybiI6IjI1MDYifQ.Rm6tbmChmRhvKEzDIxhdS0lDT-Yo5t9FfF3yxzA-rUY
+
+
+#EXTINF:-1 tvg-id="Football" tvg-logo="" group-title="Sooka",Football TESTTING SERVER
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=fb06bb8266fb4a998e7c4e7e90461556:52242587d8106c4b3ed596c7a56b4e28 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+#EXTVLCOPT:http-referrer=https://sooka.my/
+#EXTVLCOPT:http-origin=https://sooka.my
+https://s81.dp.sooka.my/v1/dash/951fbca46ac9b52422f8e3d6d4d6dab33623c3cc/sooka-ch5099-ARENA_BOLA-dash/5099/linear/index.mpd|Authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NjYzNDk1OTIsImlzcyI6IlZSIiwiZXhwIjoxNzY2Mzc4MzkyLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiZGZjOWE1YzQtMmRlZi00NWUzLTlmM2MtNTM0OTk5MzM3MDk0IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9MjE2MCl8fCh0eXBlPT1cImF1ZGlvXCImJmZvdXJDQyE9XCJhYy0zXCIpfHwodHlwZSE9XCJ2aWRlb1wiJiZ0eXBlIT1cImF1ZGlvXCIpIiwicGF0dGVybiI6IjUwOTkifQ.g2T-Hjhbvo3kjRZUn-cskirXOPxGV80tUjgZ75RCUlU
+
+
+#EXTINF:-1 tvg-id="astrogranstand" tvg-logo="" group-title="Sooka",astrogranstand TESTTING SERVER
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=66c94fd8908c43ccb5e7b3dd58a990d2:d489da5a8496d00a04757d432816ab71
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+#EXTVLCOPT:http-referrer=https://sooka.my/
+#EXTVLCOPT:http-origin=https://sooka.my
+https://s83.dp.sooka.my/v1/dash/951fbca46ac9b52422f8e3d6d4d6dab33623c3cc/sooka-ch2701-Grandstand-dash/2701/linear/index.mpd|Authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NjYzNTA2MzIsImlzcyI6IlZSIiwiZXhwIjoxNzY2Mzc5NDMyLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiZGZjOWE1YzQtMmRlZi00NWUzLTlmM2MtNTM0OTk5MzM3MDk0IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9MjE2MCl8fCh0eXBlPT1cImF1ZGlvXCImJmZvdXJDQyE9XCJhYy0zXCIpfHwodHlwZSE9XCJ2aWRlb1wiJiZ0eXBlIT1cImF1ZGlvXCIpIiwicGF0dGVybiI6IjI3MDEifQ.V7nIJAKl037Y0pcca5pkBz-ML8vtRnaY7hEyWmpfSnw
+
