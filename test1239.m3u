@@ -18,3 +18,7 @@ https://l05.dp.sooka.my/1000/linear/index.mpd|Authorization=Bearer eyJhbGciOiJIU
 #EXTVLCOPT:http-referrer=https://sooka.my/
 #EXTVLCOPT:http-origin=https://sooka.my
 https://l05.dp.sooka.my/1004/linear/index.mpd|Authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NjYzMjY1ODMsImlzcyI6IlZSIiwiZXhwIjoxNzY2MzU2MjAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiZGZjOWE1YzQtMmRlZi00NWUzLTlmM2MtNTM0OTk5MzM3MDk0IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9MjE2MCl8fCh0eXBlPT1cImF1ZGlvXCImJmZvdXJDQyE9XCJhYy0zXCIpfHwodHlwZSE9XCJ2aWRlb1wiJiZ0eXBlIT1cImF1ZGlvXCIpIiwicGF0dGVybiI6IjEwMDQifQ.XUjDiwBuk1-tsOtcBwjRlWKCH4Kat_U-cw7yblIcXUE
+
+
+#EXTINF:-1 group-title="CATEGORY",Sooka
+https://pub-e5641f60f9de43a0817827ec8dd9f186.r2.dev/Sooka.m3u
